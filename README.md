@@ -3,7 +3,7 @@ Collection of useful css variables
 
 ## Usage
 
-Import the css using a preprocessor like stylecow or postcss with support for w3c variable syntax.
+Import the css using a preprocessor like [stylecow](http://stylecow.github.io/) or postcss with support for w3c variable syntax.
 
 
 ```css
@@ -20,4 +20,4 @@ Import the css using a preprocessor like stylecow or postcss with support for w3
 ```
 $ npm install
 $ npm run-script serve
-``
+```
