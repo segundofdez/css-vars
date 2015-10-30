@@ -1,0 +1,14 @@
+{
+  "name": "css-vars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stylecow.js",
+  "scripts": {
+    "serve": "node demo.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "stylecow-core": "^2.1.0"
+  }
+}

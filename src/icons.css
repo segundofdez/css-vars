@@ -1,0 +1,21 @@
+:root {
+	--ico-plus: "\2795";
+	--ico-minus: "\2796";
+	--ico-check: "\2713";
+	--ico-close: "\2715";
+	--ico-heart: "\2665";
+
+	--ico-triangle-right: "\25b6";
+    --ico-triangle-left: "\25c0";
+    --ico-triangle-up: "\25b2";
+    --ico-triangle-down: "\25bc";
+
+    --ico-arrow-left: "\2190";
+    --ico-arrow-up: "\2191";
+    --ico-arrow-right: "\2192";
+    --ico-arrow-down: "\2193";
+    --ico-arrow-left-up: "\2196";
+    --ico-arrow-right-up: "\2197";
+    --ico-arrow-right-down: "\2198";
+    --ico-arrow-left-down: "\2199";
+}
