@@ -1,11 +1,13 @@
-:root {
-	--ico-plus: "\2795";
-	--ico-minus: "\2796";
-	--ico-check: "\2713";
-	--ico-close: "\2715";
-	--ico-heart: "\2665";
+/* Unicode icons */
 
-	--ico-triangle-right: "\25b6";
+:root {
+    --ico-plus: "\2795";
+    --ico-minus: "\2796";
+    --ico-check: "\2713";
+    --ico-close: "\2715";
+    --ico-heart: "\2665";
+
+    --ico-triangle-right: "\25b6";
     --ico-triangle-left: "\25c0";
     --ico-triangle-up: "\25b2";
     --ico-triangle-down: "\25bc";
