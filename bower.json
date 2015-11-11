@@ -1,0 +1,23 @@
+{
+    "name": "css-vars",
+    "main": "src/icons.css",
+    "version": "0.1.0",
+    "homepage": "https://github.com/oscarotero/icona",
+    "description": "Collection of useful css variables",
+    "keywords": [
+        "variables",
+        "css",
+        "icons"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:oscarotero/css-vars.git"
+    },
+    "authors": [
+        {
+            "name": "Óscar Otero",
+            "email": "oom@oscarotero.com"
+        }
+    ]
+}
