@@ -2,7 +2,7 @@
     "name": "css-vars",
     "main": "src/icons.css",
     "version": "0.1.0",
-    "homepage": "https://github.com/oscarotero/icona",
+    "homepage": "https://github.com/oscarotero/css-vars",
     "description": "Collection of useful css variables",
     "keywords": [
         "variables",
